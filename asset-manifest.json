@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/consuming-restful-api-in-react/static/css/main.4152c3d3.css",
-    "main.js": "/consuming-restful-api-in-react/static/js/main.61a76637.js",
+    "main.js": "/consuming-restful-api-in-react/static/js/main.b60f4507.js",
     "index.html": "/consuming-restful-api-in-react/index.html",
     "main.4152c3d3.css.map": "/consuming-restful-api-in-react/static/css/main.4152c3d3.css.map",
-    "main.61a76637.js.map": "/consuming-restful-api-in-react/static/js/main.61a76637.js.map"
+    "main.b60f4507.js.map": "/consuming-restful-api-in-react/static/js/main.b60f4507.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.61a76637.js"
+    "static/js/main.b60f4507.js"
   ]
 }
